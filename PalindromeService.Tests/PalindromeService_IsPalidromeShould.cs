@@ -7,9 +7,11 @@ namespace Palindrome.UnitTests.Services
 
     public class PalindromeService_IsPalindromeShould
     {
+        private readonly PalindromeService _palindromeService;
+
         public PalindromeService_IsPalindromeShould()
         {
-            PalindromeService _palindromeService = new PalindromeService();
+            _palindromeService = new PalindromeService();
         }
 
         [Theory]
@@ -18,8 +20,8 @@ namespace Palindrome.UnitTests.Services
         [InlineData("tort")]
         public void IsPalindrome_Inputs_ReturnFalse(string value)
         {
-            var palindromeService = new PalindromeService();
-            bool result = palindromeService.IsPalindrome(value);
+
+            bool result = _palindromeService.IsPalindrome(value);
 
             Assert.False(result, $"{value} should not be a palindrome");
         }
@@ -30,8 +32,7 @@ namespace Palindrome.UnitTests.Services
         [InlineData("partytrap")]
         public void IsPalindrome_Inputs_ReturnTrue(string value)
         {
-            var palindromeService = new PalindromeService();
-            bool result = palindromeService.IsPalindrome(value);
+            bool result = _palindromeService.IsPalindrome(value);
 
             Assert.True(result, $"{value} should be a palindrome");
         }

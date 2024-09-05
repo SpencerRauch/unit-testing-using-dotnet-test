@@ -9,3 +9,4 @@ C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeServ
 C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService\obj\Debug\net8.0\refint\PalindromeService.dll
 C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService\obj\Debug\net8.0\PalindromeService.pdb
 C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService\obj\Debug\net8.0\ref\PalindromeService.dll
+C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService\obj\Debug\net8.0\PalindromeService.sourcelink.json

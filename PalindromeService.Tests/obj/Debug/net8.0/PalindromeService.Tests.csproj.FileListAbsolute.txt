@@ -100,3 +100,4 @@ C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeServ
 C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService.Tests\obj\Debug\net8.0\PalindromeService.Tests.pdb
 C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService.Tests\obj\Debug\net8.0\PalindromeService.Tests.genruntimeconfig.cache
 C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService.Tests\obj\Debug\net8.0\ref\PalindromeService.Tests.dll
+C:\Users\bizar\Documents\ctu\cs469\unit-testing-using-dotnet-test\PalindromeService.Tests\obj\Debug\net8.0\PalindromeService.Tests.sourcelink.json
